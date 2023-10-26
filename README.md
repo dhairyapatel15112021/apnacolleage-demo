@@ -1,2 +1,3 @@
 # apnacolleage-demo
-this is my first repositiory
+this is my first 
+Author - Dhairya Patel
